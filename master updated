@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <title>Styles Conference</title>
+  <link rel="stylesheet" href="style/main.css">
+</head>
+  <body>
+    <div style="width: 97%; margin:0 auto;">
+	  <div style="background:#F9DB9F; height:60px; padding-top:2%; fontcolor:#8D713A; padding-left:40%;"> <b>World Conferences Website</b></div>
+	  <div>
+	    <div style="width: 60.3%; float: left; height:595px; background: #F3E6CD; padding-left:0.5%; padding-top:1%; border:groove; border-color:#8D713A; margin-top:0.2%;"> Content 
+	    	<div style="widht=14%; float:right; height:90px; background:#F9DB9F; padding-left:0.5%; padding-top:10%; border:solid; border-color:#8D713A; margin-right:1%;"> This box is left for <br/> <b> Advertisement </b>
+	    	</div>	
+	    </div>	  
+
+	    <div style="width: 37%; height:200px; float: right; background: #F3E6CD; padding-left:0.6%; padding-top:0.2%; border:groove; border-color:#8D713A; margin-top:0.2%;"> Laterral column</div>
+	 
+
+	  <div style="width:37%; float:right; height:385px; background: #F3E6CD; padding-left:0.6%; padding-top:1%; border:groove; border-color:#8D713A; margin-top:0.2%;"> world news</div>
+
+	  <div style="clear: both; width:99%; height: 120px; background:#F3E6CD;  padding-left: 0.4%; border:groove; border-color:#8D713A;"> 
+
+	  	<table width="30%" height="50px" border="0" font-size="1px" align="center">
+	  		<tr>
+	  			<td><b><u> About </u></b></td>
+	  			<td><b><u> Feedback</u></b></td>
+	  			<td><b><u> Contact Us</u></b></td>
+	  		</tr>
+	  	</table>
+	  </div>
+	</div>
+  </body>
+</html>
